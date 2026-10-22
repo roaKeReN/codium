@@ -1,0 +1,28 @@
+{
+    "telemetry.enableTelemetry": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "oneDarkPro.color": {
+        "chalky": "#ffffff"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.accessibilitySupport": "off",
+    "editor.mouseWheelScrollSensitivity": 3,
+    "editor.scrollbar.vertical": "visible",
+    "editor.cursorBlinking": "phase",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "redhat.telemetry.enabled": true,
+    "security.workspace.trust.startupPrompt": "always",
+    "chat.commandCenter.enabled": false,
+    "remote.SSH.remotePlatform": {
+        "192.168.1.87": "linux",
+        "192.168.1.50": "linux",
+        "server": "linux",
+        "merle": "linux",
+        "VPS": "linux"
+    },
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.fontFamily": "MartianMono NF",
+    "chat.agent.enabled": false,
+    "chat.disableAIFeatures": true,
+    
+}
